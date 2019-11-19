@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-print('Libraries installed')
 
 input_data = pd.read_csv("blender-efficiency.csv") 
 #input_data = pd.read_csv("blender-efficiency.csv",header=None) 
